@@ -33,4 +33,9 @@ Springboot + Maven is used to build this project.
 
 ![ERD Diagram](https://user-images.githubusercontent.com/46632994/216759810-e4f005a1-5d6e-4145-9e16-61f5e46555f1.png)
 
+## Maintainers
+**George Markozanis** - https://github.com/markajino
+
+**Christos Vlachos** - https://github.com/ChristosVlachos2000
+
 
