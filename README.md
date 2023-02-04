@@ -1,4 +1,4 @@
-**Project Scope**:
+# Project Scope:
 
 Create a PostgreSQL database using Hibernate and expose it through a deployed Web API. Follow the guidelines given
 below, feel free to expand on the functionality. It must meet the minimum requirements prescribed
@@ -11,18 +11,18 @@ with a RESTful API to allow users to manipulate the data. The database will stor
 they appear in, and the franchises these movies belong to. This should be able to be expanded on.
 
 
-**Project Stack**: 
+## Project Stack: 
 
 Springboot + Maven is used to build this project.
 
-**Project Dependencies**:
+## Project Dependencies:
 
 1. JPA/Hibernate (As an ORM tool to interact with database)
 2. Lombok (for removing the boilerplate code of getters, setters, and constructors kind of stuff)
 3. PostgresSQL (for the connection with database)
 4. MapStruct (For mapping the DTO's to model classes and model classes to dto's)
 
-**Project Requirements**:
+## Project Requirements:
 
 1. Intellij Ultimate 
 2. Postgres and PgAdmin 
